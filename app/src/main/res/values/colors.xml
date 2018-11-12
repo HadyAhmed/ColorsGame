@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors For the main theme. -->
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#37474F</color>
+    <color name="colorAccent">#B0BBC5</color>
+
+    <!-- Colors For the buttons. -->
+    <color name="green_color">#12C700</color>
+    <color name="yellow_color">#E54304</color>
+    <color name="red_color">#FFC107</color>
+</resources>
